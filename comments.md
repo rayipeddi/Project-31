@@ -1,0 +1,18 @@
+  div1 = new Division(5,800,8,400)
+  div2 = new Division(73,800,8,400)
+  div3 = new Division(141,800,8,400)
+  div4 = new Division(209,800,8,400)
+  div5 = new Division(277,800,8,400)
+  div6 = new Division(345,800,8,400)
+  div7 = new Division(413,800,8,400)
+  div8 = new Division(476,800,8,400)
+
+
+  div1.display()
+  div2.display()
+  div3.display()
+  div4.display()
+  div5.display()
+  div6.display()
+  div7.display()
+  div8.display()
